@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+print('Samantha Moross changed this code on November 9th, 2016')
 import pygame
 import sys
 import time
